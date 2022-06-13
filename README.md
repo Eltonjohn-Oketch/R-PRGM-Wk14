@@ -1,4 +1,4 @@
-# R-PRGM-Wk14 (most relevant marketing strategies that will result to highest number of sales)
+# R-PRGM-Wk14 (Marketing strategies that will result to highest number of sales)
 
 
 Defining the Question
@@ -31,3 +31,6 @@ Perform Exploratory Data Analysis (Univariate, Bivariate & Multivariate)
 Implement the Solution
 Challenge the Solution
 Follow up Questions
+
+# Author
+Eltonjohn Oketch
